@@ -1,0 +1,12 @@
+{
+	"name": "infinity",
+	"description": "generic and type-agnostic infinite type constructor",
+	"copyright": "Copyright © 2015, Vlad Levenfeld",
+	"authors": ["Vlad Levenfeld"],
+	"license": "MIT",
+	"dependencies": {
+		"meta": "~master"
+	},
+	"targetType" : "executable",
+	"dflags": ["-main"]
+}
