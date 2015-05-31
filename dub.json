@@ -7,6 +7,5 @@
 	"dependencies": {
 		"meta": "~master"
 	},
-	"targetType" : "executable",
-	"dflags": ["-main"]
+	"targetType" : "executable"
 }
